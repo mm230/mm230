@@ -1,4 +1,6 @@
-### Hi there my name is "Mouhamadou Mansour SOW" but you can call me "Mansour".
+## Hi there my name is "Mouhamadou Mansour SOW" but you can call me "Mansour".
+
+### About me:
 
 - 🌱 I’m currently a master's student in the African Master in Machine Intelligence (AMMI) at African Institute in Mathematical Sciences (AIMS)
 - 👯 I’m looking to collaborate on Graph neural network applied to computer vision
