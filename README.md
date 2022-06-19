@@ -10,26 +10,15 @@
 - 📫 How to reach me:
 <div align="center">
     <a href="mailto: mansourbarro.sow652@gmail.com">
-        <img alt="Mansour | Gmail" width="50px" style="margin-right:20px" src="assets/gmail_2020.svg" />
+        <img alt="Mansour | Gmail" width="50px" style="margin-right:20px" src="assets/Gmail_Logo.svg" />
     </a>
     &nbsp;&nbsp;&nbsp
-    <a href="https://linkedin.com/in/Anwarvic">
+    <a href="https://www.linkedin.com/in/mansour-sow-163091198/">
         <img alt="anwarvic | LinkedIn" width="40px" src="assets/linkedin.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://stackoverflow.com/users/5612363/anwarvic">
-        <img alt="anwarvic | Stackoverflow" width="40px" src="assets/stack-overflow.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://www.hackerrank.com/anwarvic" style="texts-decoration:None">
-        <img alt="anwarvic | HackerRank" width="40px" style="margin-right:20px" src="assets/hackerrank.svg" />
-    </a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="https://leetcode.com/anwarvic">
+    <a href="https://leetcode.com/Barro_/">
         <img alt="anwarvic | LeetCode" width="40px" src="assets/leetcode.png" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a href="https://anwarvic.github.io">
-        <img alt="anwarvic | Blog" width="40px" src="assets/blog.png" />
-    </a>
 </div>
