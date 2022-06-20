@@ -1,5 +1,5 @@
 # Hi all 👋🏾 
-my name is "Mansour"
+My name is "Mansour"
 
 #### About me:
 
@@ -23,3 +23,20 @@ my name is "Mansour"
     </a>
     &nbsp;&nbsp;&nbsp;
 </div>
+ ## Github contributions
+ 
+ <div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mm230&theme=radical" alt="Mansour" />
+    <br><br>
+    <img src="https://activity-graph.herokuapp.com/graph?username=mm230&theme=react-pink" />
+</div>
+
+<p align="center">
+    <!-- <img src="https://github-readme-stats.vercel.app/api?username=mm230&show_icons=true&theme=radical" alt="Anwarvic's github stats"> -->
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mm230&layout=compact&theme=radical" style="padding: 15px" /> -->
+    <br><br>
+    <img src="https://github-profile-trophy.vercel.app/?username=mm230&theme=radical" />
+    <br><br>
+    
+</p>
+<br><br>
