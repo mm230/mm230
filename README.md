@@ -41,3 +41,7 @@ My name is "Mansour"
     
 </p>
 <br><br>
+
+#### Github stats
+
+[![Barro's GitHub stats](https://github-readme-stats.vercel.app/api?username=mm230)](https://github.com/mm230/github-readme-stats)
