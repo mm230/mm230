@@ -29,7 +29,7 @@ My name is "Mansour"
  <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mm230&theme=radical" alt="Mansour" />
     <br><br>
-    <img src="https://activity-graph.herokuapp.com/graph?username=mm230&theme=react-pink" />
+    <img src="[![Barro's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mm230&bg_color=232323&color=ff4013&line=77bb41&point=d9eb37&area=true&hide_border=true)](https://github.com/mm230/github-readme-activity-graph)"/>
 </div>
 
 <p align="center">
