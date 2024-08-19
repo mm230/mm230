@@ -1,10 +1,11 @@
 # Hi all 👋🏾 
-My name is "Mansour"
+My name is Mouhamadou Mansour Sow but just call me "Mansour"
 
 #### About me:
 
-- 🌱 I’m currently a master's student in the African Master in Machine Intelligence (AMMI) at African Institute in Mathematical Sciences (AIMS)
-- 👯 I’m looking to collaborate on Graph neural network and their applications
+- 🌱 I’m currently working in Data Engineering and machine learning projects @ LAfricaMobile, a growing start-up based in Senegal.
+- Previously I was a fully scholarship master's student in the African Master in Machine Intelligence (AMMI) at African Institute in Mathematical Sciences (AIMS)
+- 👯 My main topics are related to Graph neural network and Nautral Language Processing and their applications in real-world scenarios
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I'm still busy 😆
 
